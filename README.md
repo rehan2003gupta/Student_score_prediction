@@ -9,10 +9,9 @@ This project aims to:
 ✔ Build a regression model to predict student exam scores
 ✔ Evaluate model accuracy and derive useful insights
 
-📊 Dataset Overview
+## Dataset Overview
 
-📌 Source:
-[Student Scores Dataset on Kaggle]([https://www.kaggle.com/datasets/mexwell/student-scores](https://www.kaggle.com/datasets/mirzayasirabdullah07/student-exam-scores-dataset))
+### Source: [Student Scores Dataset on Kaggle]([https://www.kaggle.com/datasets/mexwell/student-scores](https://www.kaggle.com/datasets/mirzayasirabdullah07/student-exam-scores-dataset))
 
 Total Records: 200
 
